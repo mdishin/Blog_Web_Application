@@ -16,6 +16,6 @@ Section 3: contact us page for any needed support for the application.
 \
   =>  Web Page Author  : Mohammed Dishin\
 \
-  =>  Author email  : mom.dishin@gmail.com\
+  =>  Author email  : moh.dishin@gmail.com\
 \
   }
